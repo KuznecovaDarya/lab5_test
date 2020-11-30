@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa\Debug\netstandard2.0\Anketa.deps.json
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa\Debug\netstandard2.0\Anketa.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\i\Anketa\Debug\netstandard2.0\Anketa.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\i\Anketa\Debug\netstandard2.0\Anketa.AssemblyInfo.cs
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\i\Anketa\Debug\netstandard2.0\Anketa.csproj.CopyComplete
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\i\Anketa\Debug\netstandard2.0\Anketa.dll

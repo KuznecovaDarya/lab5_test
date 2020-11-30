@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\b\Anketa.Tests\bin\Debug\Anketa.Tests.dll
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\i\Anketa.Tests\Debug\Anketa.Tests.csproj.CopyComplete
+C:\Users\User\source\repos\Anketa\.vs\Anketa\v16\lut\0\i\Anketa.Tests\Debug\Anketa.Tests.dll
